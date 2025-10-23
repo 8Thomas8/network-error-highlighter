@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Network Error Highlighter",
+  "version": "0.0.0",
+  "description": "DevTools panel that highlights network requests whose responses contain configurable keywords (default: \"error|erreur\") and shows a badge on the extension icon.",
+  "action": {
+    "default_icon": "assets/images/icon.png",
+    "default_title": "Network Error Highlighter - Click to mark all files as viewed or not viewed."
+  }
+}
